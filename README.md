@@ -1,4 +1,4 @@
-# GIS Sand Volume Analysis Project
+# GIS Sand Volume Analysis Project - year - (2024)
 
 This project was done as part of my role at Wayfinder Corp. It involves creating 3D models of sand bodies and calculating volumes using ArcGIS Pro and LiDAR data.
 
